@@ -1,0 +1,6 @@
+C:\Users\tanus\source\repos\arrays\bin\Debug\arrays.exe.config
+C:\Users\tanus\source\repos\arrays\bin\Debug\arrays.exe
+C:\Users\tanus\source\repos\arrays\bin\Debug\arrays.pdb
+C:\Users\tanus\source\repos\arrays\obj\Debug\arrays.csprojAssemblyReference.cache
+C:\Users\tanus\source\repos\arrays\obj\Debug\arrays.exe
+C:\Users\tanus\source\repos\arrays\obj\Debug\arrays.pdb
