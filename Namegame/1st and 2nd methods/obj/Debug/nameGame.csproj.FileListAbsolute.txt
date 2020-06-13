@@ -1,0 +1,6 @@
+C:\Users\tanus\source\repos\nameGame\bin\Debug\nameGame.exe.config
+C:\Users\tanus\source\repos\nameGame\bin\Debug\nameGame.exe
+C:\Users\tanus\source\repos\nameGame\bin\Debug\nameGame.pdb
+C:\Users\tanus\source\repos\nameGame\obj\Debug\nameGame.csprojAssemblyReference.cache
+C:\Users\tanus\source\repos\nameGame\obj\Debug\nameGame.exe
+C:\Users\tanus\source\repos\nameGame\obj\Debug\nameGame.pdb
