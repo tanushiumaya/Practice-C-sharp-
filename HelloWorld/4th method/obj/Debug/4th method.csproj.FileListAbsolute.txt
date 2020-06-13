@@ -1,0 +1,6 @@
+C:\Users\tanus\source\repos\helloWorld\4th method\4th method\bin\Debug\4th method.exe.config
+C:\Users\tanus\source\repos\helloWorld\4th method\4th method\bin\Debug\4th method.exe
+C:\Users\tanus\source\repos\helloWorld\4th method\4th method\bin\Debug\4th method.pdb
+C:\Users\tanus\source\repos\helloWorld\4th method\4th method\obj\Debug\4th method.csprojAssemblyReference.cache
+C:\Users\tanus\source\repos\helloWorld\4th method\4th method\obj\Debug\4th method.exe
+C:\Users\tanus\source\repos\helloWorld\4th method\4th method\obj\Debug\4th method.pdb

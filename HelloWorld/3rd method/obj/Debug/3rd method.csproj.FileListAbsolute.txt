@@ -1,0 +1,6 @@
+C:\Users\tanus\source\repos\helloWorld\3rd method\3rd method\bin\Debug\3rd method.exe.config
+C:\Users\tanus\source\repos\helloWorld\3rd method\3rd method\bin\Debug\3rd method.exe
+C:\Users\tanus\source\repos\helloWorld\3rd method\3rd method\bin\Debug\3rd method.pdb
+C:\Users\tanus\source\repos\helloWorld\3rd method\3rd method\obj\Debug\3rd method.csprojAssemblyReference.cache
+C:\Users\tanus\source\repos\helloWorld\3rd method\3rd method\obj\Debug\3rd method.exe
+C:\Users\tanus\source\repos\helloWorld\3rd method\3rd method\obj\Debug\3rd method.pdb
