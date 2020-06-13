@@ -1,0 +1,6 @@
+C:\Users\tanus\source\repos\TheNameGame\bin\Debug\TheNameGame.exe.config
+C:\Users\tanus\source\repos\TheNameGame\bin\Debug\TheNameGame.exe
+C:\Users\tanus\source\repos\TheNameGame\bin\Debug\TheNameGame.pdb
+C:\Users\tanus\source\repos\TheNameGame\obj\Debug\TheNameGame.csprojAssemblyReference.cache
+C:\Users\tanus\source\repos\TheNameGame\obj\Debug\TheNameGame.exe
+C:\Users\tanus\source\repos\TheNameGame\obj\Debug\TheNameGame.pdb
