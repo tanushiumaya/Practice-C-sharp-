@@ -1,0 +1,6 @@
+C:\Users\tanus\source\repos\simpleMethod\bin\Debug\simpleMethod.exe.config
+C:\Users\tanus\source\repos\simpleMethod\bin\Debug\simpleMethod.exe
+C:\Users\tanus\source\repos\simpleMethod\bin\Debug\simpleMethod.pdb
+C:\Users\tanus\source\repos\simpleMethod\obj\Debug\simpleMethod.csprojAssemblyReference.cache
+C:\Users\tanus\source\repos\simpleMethod\obj\Debug\simpleMethod.exe
+C:\Users\tanus\source\repos\simpleMethod\obj\Debug\simpleMethod.pdb
