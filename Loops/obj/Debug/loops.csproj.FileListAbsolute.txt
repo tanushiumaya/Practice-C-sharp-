@@ -1,0 +1,6 @@
+C:\Users\tanus\source\repos\loops\bin\Debug\loops.exe.config
+C:\Users\tanus\source\repos\loops\bin\Debug\loops.exe
+C:\Users\tanus\source\repos\loops\bin\Debug\loops.pdb
+C:\Users\tanus\source\repos\loops\obj\Debug\loops.csprojAssemblyReference.cache
+C:\Users\tanus\source\repos\loops\obj\Debug\loops.exe
+C:\Users\tanus\source\repos\loops\obj\Debug\loops.pdb
