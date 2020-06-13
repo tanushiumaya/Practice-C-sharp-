@@ -1,0 +1,6 @@
+C:\Users\tanus\source\repos\TheNameGame\2nd method\2nd method\bin\Debug\2nd method.exe.config
+C:\Users\tanus\source\repos\TheNameGame\2nd method\2nd method\bin\Debug\2nd method.exe
+C:\Users\tanus\source\repos\TheNameGame\2nd method\2nd method\bin\Debug\2nd method.pdb
+C:\Users\tanus\source\repos\TheNameGame\2nd method\2nd method\obj\Debug\2nd method.csprojAssemblyReference.cache
+C:\Users\tanus\source\repos\TheNameGame\2nd method\2nd method\obj\Debug\2nd method.exe
+C:\Users\tanus\source\repos\TheNameGame\2nd method\2nd method\obj\Debug\2nd method.pdb
